@@ -7,7 +7,7 @@
 
 ### 💻 Projeto
 
-Netflix_
+Filmes e Series
 
 ---
 
