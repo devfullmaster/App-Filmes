@@ -1,4 +1,4 @@
-<h1 align="center" id="topo">Netflix_ </h1>
+<h1 align="center" id="topo">Filmes e Series</h1>
 
 <div align="center">
 <img width='600px' src="./img/mockup1.png" width="35px"/>
@@ -31,12 +31,12 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 <a href="https://github.com/devfullmaster/Netflix_/tree/master">Acesse aqui</a>🔗 o código fonte pelo GitHub.
 
-Faça o <a href="https://github.com/devfullmaster/Netflix_/archive/refs/heads/master.zip">Download aqui</a>🔗 do código fonte no formato zip.
+Faça o <a href="https://github.com/devfullmaster/App-Filmes/archive/refs/heads/main.zip">Download aqui</a>🔗 do código fonte no formato zip.
 
 Clone o repositório:
 
 ```
-git clone https://github.com/devfullmaster/Netflix_.git
+git clone https://github.com/devfullmaster/App-Filmes.git
 ```
 
 ---
