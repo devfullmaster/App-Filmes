@@ -23,13 +23,13 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 ---
 
-### 🚀 ​ [Clique aqui](https://netflix-rho-opal.vercel.app/)🔗 e veja o projeto no ar.
+### 🚀 ​ [Clique aqui](https://app-filmes-theta.vercel.app/)🔗 e veja o projeto no ar.
 
 ---
 
 ### ​👷‍♂️​ Acessar o Projeto
 
-<a href="https://github.com/devfullmaster/Netflix_/tree/master">Acesse aqui</a>🔗 o código fonte pelo GitHub.
+<a href="https://github.com/devfullmaster/App-Filmes/tree/main">Acesse aqui</a>🔗 o código fonte pelo GitHub.
 
 Faça o <a href="https://github.com/devfullmaster/App-Filmes/archive/refs/heads/main.zip">Download aqui</a>🔗 do código fonte no formato zip.
 
